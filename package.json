@@ -1,13 +1,13 @@
 {
-  "name": "natural",
+  "name": "light-phpassion",
   "theme": "syntax",
-  "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "version": "1.0.0",
+  "description": "An atom syntax theme based off of warm tone php colours.",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/natural",
+  "repository": "https://github.com/jacobsteves/light-phpassion",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
