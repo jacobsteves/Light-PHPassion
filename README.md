@@ -6,3 +6,10 @@ This lighter theme is easy on the eyes and fits perfectly the [PHPassion-Light-U
 
 <br>
 <img src="http://www.jacobsteves.ca/images/light-phpassion.gif" width=60% />
+
+## Installation
+
+1. Clone this repo, name it 'p-h-passion-light-syntax'
+2. Open Atom, go to Settings, and click "Open Config Folder"
+3. Open the 'packages' folder and paste the new folder
+4. Restart Atom and select the theme from within settings
