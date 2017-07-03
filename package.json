@@ -1,5 +1,5 @@
 {
-  "name": "light-phpassion",
+  "name": "p-h-passion-light-syntax",
   "theme": "syntax",
   "version": "1.0.0",
   "description": "An atom syntax theme based off of warm tone php colours.",
@@ -7,7 +7,7 @@
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/jacobsteves/light-phpassion",
+  "repository": "https://github.com/jacobsteves/phpassion-light-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
